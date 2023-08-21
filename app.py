@@ -16,7 +16,7 @@ class MyHandler(BaseHTTPRequestHandler):
   \____\_______/
 
 
-Good morning  from M2 batch! Random Change
+Good morning  from M2 batch! todays session 21aug
 ''')
 
 def run():
